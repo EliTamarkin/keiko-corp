@@ -1,3 +1,3 @@
 # keiko-corp
 The greatest company ever created
-I've just tried my first push!
+I've learnt how clone and push work, Yay me!
